@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-tt-commons: "TT Commons";
+  --font-spectral-sc: "Spectral SC";
+  --font-tilda-sans-vf: "Tilda Sans VF";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-17xl: 36px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #191919;
+  --color-seashell: #f9f0eb;
+  --color-slateblue-100: #624ac6;
+  --color-slateblue-200: rgba(98, 74, 198, 0.29);
+  --color-black: #000;
+  --color-mediumslateblue: #856af5;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.18);
+  --color-lavenderblush: #f9ebf6;
+
+  /* Border radiuses */
+  --br-12xs: 1px;
+  --br-7xs: 6px;
+  --br-smi: 13px;
+  --br-sm: 14px;
+  --br-lg: 18px;
+  --br-9xs: 4px;
+}
